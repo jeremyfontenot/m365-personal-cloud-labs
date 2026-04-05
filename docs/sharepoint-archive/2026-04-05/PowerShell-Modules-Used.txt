@@ -1,0 +1,11 @@
+﻿PowerShell Modules Used
+=======================
+
+- Microsoft.Graph (Authentication + REST via Invoke-MgGraphRequest)
+- ExchangeOnlineManagement
+- MicrosoftTeams (module present; team creation performed via Graph to avoid runtime dependency issues)
+- Microsoft.Online.SharePoint.PowerShell
+
+Notes:
+- Graph endpoints used for: users/groups, Conditional Access, Intune, SharePoint file operations, Teams.
+- SPO module used only for site creation and admin connection.

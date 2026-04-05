@@ -44,6 +44,10 @@ scripts/     – PowerShell automation used by the labs
 assets/      – Diagrams, branding, and visual artifacts
 docs/        – Architecture, assumptions, and provenance
 
+Additional SharePoint document exports are archived under:
+
+- `docs/sharepoint-archive/` – dated imports of local SharePoint exports used to preserve source artifacts
+
 ### Scripts
 
 Scripts are organized by service for clarity:

@@ -1,0 +1,16 @@
+﻿M365 Personal Cloud Lab Documentation
+====================================
+
+Site:   https://jeremyfontenot.sharepoint.com/sites/M365-Documentation
+Section: Conditional Access
+
+Overview:
+- Auto-generated via PowerShell + Microsoft Graph.
+- Environment: Microsoft 365 Business Premium (personal lab, non-production).
+- Purpose: Resume-ready documentation of lab work.
+
+Key Notes:
+- All configuration performed with PowerShell only.
+- See 'Scripts Used' and 'Validation Results' for commands and checks.
+
+Generated: 2026-02-18 22:27:11

@@ -1,0 +1,11 @@
+﻿Admin Skills Demonstrated (PowerShell-Only)
+===========================================
+
+- Microsoft Graph SDK usage (users, groups, CA, Intune, SharePoint file upload)
+- Exchange Online PowerShell (shared mailbox, permissions, auditing)
+- Teams provisioning (Graph-based team creation + channels)
+- Intune policy creation and assignment (compliance + update ring)
+- SharePoint Online site creation and content automation (Graph drives)
+- Conditional Access configuration (Require MFA for all users)
+- Tenant hygiene: purge Teams/M365 Groups, security groups, CA, Intune, role assignments
+- Idempotent scripting patterns, error handling, and validation
